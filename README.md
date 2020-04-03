@@ -1,3 +1,6 @@
 # hello-world
-Just another repository
-Hi Zombies,
+
+Zombies 
+
+we are competitiors
+
